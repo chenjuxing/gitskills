@@ -1,3 +1,2 @@
-# gitskills
+i love studying git & and.
 
-i love studying git & ee.
